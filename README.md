@@ -10,7 +10,7 @@
 
 - Faça um clone desse repositório;
 
-- Entre na pasta `cd form-animate-css`;
+- Entre na pasta `cd form-animate-css-js`;
 
 - Abra o index.html de cada desafio para ver o resultado;
 
